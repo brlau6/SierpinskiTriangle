@@ -16,7 +16,7 @@ public void mouseDragged(){ //optional
 int base = 15;
 public void keyPressed(){
   if(key == 'w' || key == 'W'){
-    if(base <= 30){
+    if(base <= 50){
       base++;
     }
   }
