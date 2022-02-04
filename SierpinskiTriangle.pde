@@ -1,8 +1,9 @@
-public void settings() {
-  size(500, 500);
-}
+//public void settings() {
+//  size(500, 500);
+//}
 public void setup(){
   //empty!
+  size(500, 500);
 }
 public void draw(){
   fill(0,0,0,50);
